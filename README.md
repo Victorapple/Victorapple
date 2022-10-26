@@ -1,6 +1,4 @@
-Hi, I’m Victor Lee
-
-My GitHub is looking kind of bare but I will slowly work on it. I think.
+Hi, I’m Victor Lee, and this is the face of pain.
 
 <!---
 Victorapple/Victorapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
