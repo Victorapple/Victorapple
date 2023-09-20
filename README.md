@@ -1,4 +1,4 @@
-Hi, I’m Victor Lee, and this is the face of pain.
+Hi, I’m Victor Lee.
 
 <!---
 Victorapple/Victorapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
